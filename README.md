@@ -3,8 +3,8 @@
 
 ■ほかの人とかぶらないように自分のフォルダを作成し、そこで作業を行う  
 (例)  
-`$ mkdir aikawah  
-$ cd aikawah`  
+`$ mkdir aikawah`  
+`$ cd aikawah`  
   
 ■VI等でPythonコードを記述。作成に当たっては何を使用してもかまわない。  
 1.ファイルの拡張子は「.py」としてエディタを起動  
