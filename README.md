@@ -1,5 +1,5 @@
 ■初回のみpython3のインストール(すでにインストールされているので不要)。  
-$ sudo yum install python3 -y  
+`$ sudo yum install python3 -y`  
 
 ■ほかの人とかぶらないように自分のフォルダを作成し、そこで作業を行う  
 (例)  
